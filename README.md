@@ -21,11 +21,11 @@ Easily manage seat allocations, exam seating plans, lecturer assignments, and re
 
 ---
 
+
 ## 📸 Screenshots
 
-> *(Add images/gifs of your project UI here for better presentation)*
+![Home Page](SeatEase.png) 
 
----
 
 ## ⚡ How to Run
 
