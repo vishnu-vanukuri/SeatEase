@@ -34,7 +34,7 @@ Easily manage seat allocations, exam seating plans, lecturer assignments, and re
    ```bash
    git clone https://github.com/your-username/SeatEase.git
    ```
-2. Open `index.html` in your browser.
+2. Open `home.html` in your browser.
 
 ---
 
